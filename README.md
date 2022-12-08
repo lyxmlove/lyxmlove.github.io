@@ -1,6 +1,9 @@
 ### 项目说明
 
 
+
+https://github.com/lyxmlove/lyxmlove.github.io/blob/master/src/main/lyx.md
+
 http 地址（address of http ）：http://www.fengyunxiao.cn
 
 https地址（address of https）：https://www.fengyunxiao.cn
